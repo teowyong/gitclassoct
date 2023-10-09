@@ -5,3 +5,5 @@ some changes to the second file
 further changes to second file
 
 changes to master
+
+changes to trialbranch for conflict
